@@ -1,0 +1,225 @@
+.landing-page {
+    display: flex;
+    flex-direction: column;
+    height: 1024px;
+    align-items: flex-start;
+    padding: 0px 0px 10px;
+    position: relative;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  
+  .landing-page .navbar {
+    display: flex;
+    height: 107px;
+    align-items: center;
+    justify-content: center;
+    gap: 9px;
+    padding: 10px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .landing-page .div {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .landing-page .text-wrapper {
+    position: relative;
+    width: 239px;
+    height: 56px;
+    margin-top: -1.00px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .login {
+    position: relative;
+    width: 199px;
+    height: 58px;
+  }
+  
+  .landing-page .overlap-group {
+    position: relative;
+    width: 197px;
+    height: 58px;
+    background-color: #272b3b;
+    border-radius: 19px;
+  }
+  
+  .landing-page .text-wrapper-2 {
+    position: absolute;
+    width: 189px;
+    top: 0;
+    left: 4px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .frame {
+    display: flex;
+    width: 1440px;
+    height: 870px;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 58px;
+    position: relative;
+    background-color: #101422;
+  }
+  
+  .landing-page .frame-2 {
+    display: inline-flex;
+    flex-direction: column;
+    height: 696px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 14px;
+    padding: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .landing-page .frame-3 {
+    display: inline-flex;
+    flex-direction: column;
+    height: 382px;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .landing-page .text-wrapper-3 {
+    position: relative;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 128px;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 1;
+    margin-bottom: 10px;
+}
+  
+  .landing-page .text-wrapper-4 {
+    position: relative;
+    width: 532px;
+    height: 125px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 96px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-5 {
+    position: relative;
+    width: 353px;
+    height: 70px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 96px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .kursus-renang-ITO {
+    position: relative;
+    width: 516px;
+    height: 120px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .overlap-group-wrapper {
+    position: relative;
+    width: 289.13px;
+    height: 75.03px;
+  }
+  
+  .landing-page .div-wrapper {
+    position: relative;
+    width: 287px;
+    height: 75px;
+    background-color: #a8dce7;
+    border-radius: 13.71px;
+  }
+  
+  .landing-page .text-wrapper-6 {
+    position: absolute;
+    width: 287px;
+    top: 19px;
+    left: 0;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #272b3b;
+    font-size: 26px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .brian-matangelo-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 801px;
+    height: 611px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    margin-right: -39.00px;
+  }
+  
+  .landing-page .brian-matangelo {
+    position: relative;
+    width: 758px;
+    height: 493px;
+    object-fit: cover;
+  }
+  
+  .landing-page .navbar-2 {
+    display: flex;
+    height: 84px;
+    align-items: center;
+    justify-content: center;
+    gap: 87px;
+    padding: 10px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    margin-bottom: -10.00px;
+    overflow: hidden;
+  }
+  
+  .landing-page .rectangle {
+    position: relative;
+    width: 203px;
+    height: 125px;
+    margin-top: -30.50px;
+    margin-bottom: -30.50px;
+    background-color: #272b3b;
+  }
+  
